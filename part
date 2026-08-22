@@ -1,0 +1,58 @@
+workShift
+    title
+    code
+    startTime
+    endTime
+    breakMinutes integer optional
+    lateToleranceMinutes integer optional
+    earlyDepartureToleranceMinutes integer optional
+    unique code
+employeeShift
+    employee
+    workShift
+    startDate
+    endDate optional
+attendanceRecord
+    employee
+    workDate dateOnly
+    checkInDate optional
+    checkOutDate optional
+    workedMinutes integer optional
+    lateMinutes integer optional
+    earlyDepartureMinutes integer optional
+    description optional
+    unique employee workDate
+attendanceBreak
+    attendanceRecord
+    startDate
+    endDate optional
+    durationMinutes integer optional
+leaveType
+    title
+    code
+    paid yesNo optional
+    yearlyAllowanceMinutes integer optional
+    unique code
+leaveRequest
+    employee
+    leaveType
+    startDate
+    endDate
+    requestedMinutes integer
+    state
+    reason optional
+overtime
+    attendanceRecord
+    requestedMinutes integer
+    approvedMinutes integer optional
+    state
+    reason optional
+attendanceSummary
+    employee
+    startDate
+    endDate
+    scheduledMinutes integer
+    workedMinutes integer
+    leaveMinutes integer
+    overtimeMinutes integer
+    unique employee startDate endDate
