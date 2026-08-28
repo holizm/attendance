@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'schedule',
+        path: '/attendance',
         title: 'attendanceAttendance',
     },
 ]
