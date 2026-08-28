@@ -1,0 +1,4 @@
+[
+    { $match: { leaveType } },
+    { $count: 'count' },
+]

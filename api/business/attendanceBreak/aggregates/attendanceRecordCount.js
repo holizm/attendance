@@ -1,0 +1,4 @@
+[
+    { $match: { attendanceRecord } },
+    { $count: 'count' },
+]

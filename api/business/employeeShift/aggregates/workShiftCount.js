@@ -1,0 +1,4 @@
+[
+    { $match: { workShift } },
+    { $count: 'count' },
+]
