@@ -1,4 +1,5 @@
 {
+    "attendanceAttendance": "Attendance",
     "attendanceCheckIn": "Check in",
     "attendanceCheckOut": "Check out",
     "attendanceLeaveRequest": "Request leave"
