@@ -1,0 +1,34 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "attendance": "Attendance",
+        "breakMinutes": "Break in minutes",
+        "checkInDate": "Check-in time",
+        "checkOutDate": "Check-out time",
+        "code": "Code",
+        "description": "Description",
+        "employee": "Employee",
+        "endDate": "End date",
+        "endTime": "End time",
+        "lateToleranceMinutes": "Late tolerance in minutes",
+        "leaveRequests": "Leave requests",
+        "leaveType": "Leave type",
+        "reason": "Reason",
+        "records": "Attendance records",
+        "requestedMinutes": "Requested minutes",
+        "startDate": "Start date",
+        "startTime": "Start time",
+        "state": "State",
+        "workDate": "Work date",
+        "workedMinutes": "Worked minutes",
+        "workShift": "Work shift",
+        "workShifts": "Work shifts"
+    },
+    "site": {
+        "attendance": "Attendance",
+        "checkIn": "Check in",
+        "checkOut": "Check out",
+        "leaveRequest": "Request leave"
+    }
+}
