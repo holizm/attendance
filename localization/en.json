@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "attendance": "Attendance",
         "breakMinutes": "Break in minutes",
         "checkInDate": "Check-in time",
@@ -23,12 +21,11 @@
         "workDate": "Work date",
         "workedMinutes": "Worked minutes",
         "workShift": "Work shift",
-        "workShifts": "Work shifts"
+        "workShifts": "Work shifts",
+        "checkIn": "Check in",
+        "leaveRequest": "Request leave"
     },
     "site": {
-        "attendance": "Attendance",
-        "checkIn": "Check in",
-        "checkOut": "Check out",
-        "leaveRequest": "Request leave"
+        "checkOut": "Check out"
     }
 }

@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "attendance": "حضور و غیاب",
         "breakMinutes": "زمان استراحت به دقیقه",
         "checkInDate": "زمان ورود",
@@ -23,12 +21,11 @@
         "workDate": "تاریخ کاری",
         "workedMinutes": "دقایق کارکرد",
         "workShift": "شیفت کاری",
-        "workShifts": "شیفت‌های کاری"
+        "workShifts": "شیفت‌های کاری",
+        "checkIn": "ثبت ورود",
+        "leaveRequest": "درخواست مرخصی"
     },
     "site": {
-        "attendance": "حضور و غیاب",
-        "checkIn": "ثبت ورود",
-        "checkOut": "ثبت خروج",
-        "leaveRequest": "درخواست مرخصی"
+        "checkOut": "ثبت خروج"
     }
 }
