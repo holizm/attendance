@@ -14,11 +14,6 @@
         "workDate": "تاریخ کاری",
         "workedMinutes": "دقایق کارکرد",
         "workShift": "شیفت کاری",
-        "workShifts": "شیفت‌های کاری",
-        "checkIn": "ثبت ورود",
-        "leaveRequest": "درخواست مرخصی"
-    },
-    "site": {
-        "checkOut": "ثبت خروج"
+        "workShifts": "شیفت‌های کاری"
     }
 }

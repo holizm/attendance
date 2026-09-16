@@ -14,11 +14,6 @@
         "workDate": "Work date",
         "workedMinutes": "Worked minutes",
         "workShift": "Work shift",
-        "workShifts": "Work shifts",
-        "checkIn": "Check in",
-        "leaveRequest": "Request leave"
-    },
-    "site": {
-        "checkOut": "Check out"
+        "workShifts": "Work shifts"
     }
 }
