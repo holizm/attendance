@@ -9,7 +9,7 @@ const headers = <>
     <th>attendanceLeaveType</th>
     <th>attendanceStartDate</th>
     <th>attendanceEndDate</th>
-    <th>attendanceState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
