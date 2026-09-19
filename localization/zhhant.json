@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "考勤",
+        "breakMinutes": "休息時間（分鐘）",
+        "checkInDate": "簽到時間",
+        "checkOutDate": "簽退時間",
+        "endTime": "結束時間",
+        "lateToleranceMinutes": "遲到寬限時間（分鐘）",
+        "leaveRequests": "請假申請",
+        "leaveType": "請假類型",
+        "records": "考勤記錄",
+        "requestedMinutes": "申請分鐘數",
+        "startTime": "開始時間",
+        "workDate": "工作日期",
+        "workedMinutes": "工作分鐘數",
+        "workShift": "工作班次",
+        "workShifts": "工作班次"
+    }
+}

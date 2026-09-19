@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "근태",
+        "breakMinutes": "휴게 시간(분)",
+        "checkInDate": "출근 시간",
+        "checkOutDate": "퇴근 시간",
+        "endTime": "종료 시간",
+        "lateToleranceMinutes": "지각 허용 시간(분)",
+        "leaveRequests": "휴가 요청",
+        "leaveType": "휴가 유형",
+        "records": "근태 기록",
+        "requestedMinutes": "요청 시간(분)",
+        "startTime": "시작 시간",
+        "workDate": "근무일",
+        "workedMinutes": "근무 시간(분)",
+        "workShift": "근무 교대",
+        "workShifts": "근무 교대"
+    }
+}

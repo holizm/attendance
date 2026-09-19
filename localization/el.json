@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Παρουσία",
+        "breakMinutes": "Διάλειμμα σε λεπτά",
+        "checkInDate": "Ώρα προσέλευσης",
+        "checkOutDate": "Ώρα αποχώρησης",
+        "endTime": "Ώρα λήξης",
+        "lateToleranceMinutes": "Ανοχή καθυστέρησης σε λεπτά",
+        "leaveRequests": "Αιτήματα άδειας",
+        "leaveType": "Τύπος άδειας",
+        "records": "Καταγραφές παρουσίας",
+        "requestedMinutes": "Αιτούμενα λεπτά",
+        "startTime": "Ώρα έναρξης",
+        "workDate": "Ημερομηνία εργασίας",
+        "workedMinutes": "Λεπτά εργασίας",
+        "workShift": "Βάρδια εργασίας",
+        "workShifts": "Βάρδιες εργασίας"
+    }
+}

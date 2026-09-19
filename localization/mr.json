@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "उपस्थिती",
+        "breakMinutes": "विश्रांती मिनिटांत",
+        "checkInDate": "येण्याची वेळ",
+        "checkOutDate": "जाण्याची वेळ",
+        "endTime": "समाप्ती वेळ",
+        "lateToleranceMinutes": "उशिराची स्वीकार्य मर्यादा मिनिटांत",
+        "leaveRequests": "रजेच्या विनंत्या",
+        "leaveType": "रजेचा प्रकार",
+        "records": "उपस्थिती नोंदी",
+        "requestedMinutes": "विनंती केलेली मिनिटे",
+        "startTime": "प्रारंभ वेळ",
+        "workDate": "कामाची तारीख",
+        "workedMinutes": "काम केलेली मिनिटे",
+        "workShift": "कामाची पाळी",
+        "workShifts": "कामाच्या पाळ्या"
+    }
+}

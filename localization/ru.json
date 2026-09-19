@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Посещаемость",
+        "breakMinutes": "Перерыв в минутах",
+        "checkInDate": "Время прихода",
+        "checkOutDate": "Время ухода",
+        "endTime": "Время окончания",
+        "lateToleranceMinutes": "Допустимое опоздание в минутах",
+        "leaveRequests": "Заявки на отпуск",
+        "leaveType": "Тип отпуска",
+        "records": "Записи посещаемости",
+        "requestedMinutes": "Запрошенные минуты",
+        "startTime": "Время начала",
+        "workDate": "Рабочая дата",
+        "workedMinutes": "Отработанные минуты",
+        "workShift": "Рабочая смена",
+        "workShifts": "Рабочие смены"
+    }
+}

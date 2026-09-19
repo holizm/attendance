@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Присъствие",
+        "breakMinutes": "Почивка в минути",
+        "checkInDate": "Час на пристигане",
+        "checkOutDate": "Час на напускане",
+        "endTime": "Краен час",
+        "lateToleranceMinutes": "Допустимо закъснение в минути",
+        "leaveRequests": "Заявки за отпуск",
+        "leaveType": "Вид отпуск",
+        "records": "Записи за присъствие",
+        "requestedMinutes": "Заявени минути",
+        "startTime": "Начален час",
+        "workDate": "Работна дата",
+        "workedMinutes": "Отработени минути",
+        "workShift": "Работна смяна",
+        "workShifts": "Работни смени"
+    }
+}

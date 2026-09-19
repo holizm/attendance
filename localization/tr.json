@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Puantaj",
+        "breakMinutes": "Mola süresi (dakika)",
+        "checkInDate": "Giriş saati",
+        "checkOutDate": "Çıkış saati",
+        "endTime": "Bitiş saati",
+        "lateToleranceMinutes": "Geç kalma toleransı (dakika)",
+        "leaveRequests": "İzin talepleri",
+        "leaveType": "İzin türü",
+        "records": "Puantaj kayıtları",
+        "requestedMinutes": "Talep edilen dakika",
+        "startTime": "Başlangıç saati",
+        "workDate": "Çalışma tarihi",
+        "workedMinutes": "Çalışılan dakika",
+        "workShift": "Vardiya",
+        "workShifts": "Vardiyalar"
+    }
+}

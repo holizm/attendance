@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Presenze",
+        "breakMinutes": "Pausa in minuti",
+        "checkInDate": "Ora di entrata",
+        "checkOutDate": "Ora di uscita",
+        "endTime": "Ora di fine",
+        "lateToleranceMinutes": "Tolleranza ritardo in minuti",
+        "leaveRequests": "Richieste di congedo",
+        "leaveType": "Tipo di congedo",
+        "records": "Registri presenze",
+        "requestedMinutes": "Minuti richiesti",
+        "startTime": "Ora di inizio",
+        "workDate": "Data di lavoro",
+        "workedMinutes": "Minuti lavorati",
+        "workShift": "Turno di lavoro",
+        "workShifts": "Turni di lavoro"
+    }
+}

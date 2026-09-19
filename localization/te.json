@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "హాజరు",
+        "breakMinutes": "విరామం నిమిషాల్లో",
+        "checkInDate": "లోపలికి వచ్చిన సమయం",
+        "checkOutDate": "బయటకు వెళ్లిన సమయం",
+        "endTime": "ముగింపు సమయం",
+        "lateToleranceMinutes": "ఆలస్య సహనం నిమిషాల్లో",
+        "leaveRequests": "సెలవు అభ్యర్థనలు",
+        "leaveType": "సెలవు రకం",
+        "records": "హాజరు రికార్డులు",
+        "requestedMinutes": "అభ్యర్థించిన నిమిషాలు",
+        "startTime": "ప్రారంభ సమయం",
+        "workDate": "పని తేదీ",
+        "workedMinutes": "పని చేసిన నిమిషాలు",
+        "workShift": "పని షిఫ్ట్",
+        "workShifts": "పని షిఫ్ట్‌లు"
+    }
+}

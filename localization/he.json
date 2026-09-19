@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "נוכחות",
+        "breakMinutes": "הפסקה בדקות",
+        "checkInDate": "שעת כניסה",
+        "checkOutDate": "שעת יציאה",
+        "endTime": "שעת סיום",
+        "lateToleranceMinutes": "סבילות לאיחור בדקות",
+        "leaveRequests": "בקשות חופשה",
+        "leaveType": "סוג חופשה",
+        "records": "רישומי נוכחות",
+        "requestedMinutes": "דקות מבוקשות",
+        "startTime": "שעת התחלה",
+        "workDate": "תאריך עבודה",
+        "workedMinutes": "דקות עבודה",
+        "workShift": "משמרת עבודה",
+        "workShifts": "משמרות עבודה"
+    }
+}

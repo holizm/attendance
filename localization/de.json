@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Anwesenheit",
+        "breakMinutes": "Pause in Minuten",
+        "checkInDate": "Einstempelzeit",
+        "checkOutDate": "Ausstempelzeit",
+        "endTime": "Endzeit",
+        "lateToleranceMinutes": "Verspätungstoleranz in Minuten",
+        "leaveRequests": "Urlaubsanträge",
+        "leaveType": "Abwesenheitsart",
+        "records": "Anwesenheitsaufzeichnungen",
+        "requestedMinutes": "Beantragte Minuten",
+        "startTime": "Startzeit",
+        "workDate": "Arbeitstag",
+        "workedMinutes": "Gearbeitete Minuten",
+        "workShift": "Arbeitsschicht",
+        "workShifts": "Arbeitsschichten"
+    }
+}

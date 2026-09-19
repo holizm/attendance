@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Työajanseuranta",
+        "breakMinutes": "Tauko minuutteina",
+        "checkInDate": "Sisäänkirjautumisaika",
+        "checkOutDate": "Uloskirjautumisaika",
+        "endTime": "Päättymisaika",
+        "lateToleranceMinutes": "Myöhästymistoleranssi minuutteina",
+        "leaveRequests": "Vapaapyynnöt",
+        "leaveType": "Vapaan tyyppi",
+        "records": "Läsnäolotiedot",
+        "requestedMinutes": "Pyydetyt minuutit",
+        "startTime": "Alkamisaika",
+        "workDate": "Työpäivä",
+        "workedMinutes": "Työskennellyt minuutit",
+        "workShift": "Työvuoro",
+        "workShifts": "Työvuorot"
+    }
+}

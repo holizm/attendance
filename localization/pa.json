@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "ਹਾਜ਼ਰੀ",
+        "breakMinutes": "ਵਿਰਾਮ ਮਿੰਟਾਂ ਵਿੱਚ",
+        "checkInDate": "ਆਉਣ ਦਾ ਸਮਾਂ",
+        "checkOutDate": "ਜਾਣ ਦਾ ਸਮਾਂ",
+        "endTime": "ਸਮਾਪਤੀ ਸਮਾਂ",
+        "lateToleranceMinutes": "ਦੇਰੀ ਦੀ ਛੋਟ ਮਿੰਟਾਂ ਵਿੱਚ",
+        "leaveRequests": "ਛੁੱਟੀ ਦੀਆਂ ਬੇਨਤੀਆਂ",
+        "leaveType": "ਛੁੱਟੀ ਦੀ ਕਿਸਮ",
+        "records": "ਹਾਜ਼ਰੀ ਰਿਕਾਰਡ",
+        "requestedMinutes": "ਬੇਨਤੀ ਕੀਤੇ ਮਿੰਟ",
+        "startTime": "ਸ਼ੁਰੂਆਤ ਦਾ ਸਮਾਂ",
+        "workDate": "ਕੰਮ ਦੀ ਮਿਤੀ",
+        "workedMinutes": "ਕੰਮ ਕੀਤੇ ਮਿੰਟ",
+        "workShift": "ਕੰਮ ਦੀ ਸ਼ਿਫਟ",
+        "workShifts": "ਕੰਮ ਦੀਆਂ ਸ਼ਿਫਟਾਂ"
+    }
+}

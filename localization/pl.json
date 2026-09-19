@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Ewidencja obecności",
+        "breakMinutes": "Przerwa w minutach",
+        "checkInDate": "Godzina wejścia",
+        "checkOutDate": "Godzina wyjścia",
+        "endTime": "Godzina zakończenia",
+        "lateToleranceMinutes": "Tolerancja spóźnienia w minutach",
+        "leaveRequests": "Wnioski urlopowe",
+        "leaveType": "Rodzaj urlopu",
+        "records": "Rejestry obecności",
+        "requestedMinutes": "Wnioskowane minuty",
+        "startTime": "Godzina rozpoczęcia",
+        "workDate": "Data pracy",
+        "workedMinutes": "Przepracowane minuty",
+        "workShift": "Zmiana robocza",
+        "workShifts": "Zmiany robocze"
+    }
+}

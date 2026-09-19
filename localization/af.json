@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Bywoning",
+        "breakMinutes": "Pouse in minute",
+        "checkInDate": "Inkloktyd",
+        "checkOutDate": "Uitkloktyd",
+        "endTime": "Eindtyd",
+        "lateToleranceMinutes": "Laatverdraagsaamheid in minute",
+        "leaveRequests": "Verlofversoeke",
+        "leaveType": "Verloftipe",
+        "records": "Bywoningsrekords",
+        "requestedMinutes": "Aangevraagde minute",
+        "startTime": "Begintyd",
+        "workDate": "Werkdatum",
+        "workedMinutes": "Gewerkte minute",
+        "workShift": "Werkskof",
+        "workShifts": "Werkskofte"
+    }
+}

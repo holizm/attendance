@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Fremmøde",
+        "breakMinutes": "Pause i minutter",
+        "checkInDate": "Indtjekningstid",
+        "checkOutDate": "Udtjekningstid",
+        "endTime": "Sluttidspunkt",
+        "lateToleranceMinutes": "Tolerance for forsinkelse i minutter",
+        "leaveRequests": "Ferieanmodninger",
+        "leaveType": "Fraværstype",
+        "records": "Fremmøderegistreringer",
+        "requestedMinutes": "Anmodede minutter",
+        "startTime": "Starttidspunkt",
+        "workDate": "Arbejdsdato",
+        "workedMinutes": "Arbejdede minutter",
+        "workShift": "Arbejdsskift",
+        "workShifts": "Arbejdsskift"
+    }
+}

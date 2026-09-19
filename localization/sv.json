@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Närvaro",
+        "breakMinutes": "Rast i minuter",
+        "checkInDate": "Incheckningstid",
+        "checkOutDate": "Utcheckningstid",
+        "endTime": "Sluttid",
+        "lateToleranceMinutes": "Tolerans för sen ankomst i minuter",
+        "leaveRequests": "Ledighetsansökningar",
+        "leaveType": "Ledighetstyp",
+        "records": "Närvaroregistreringar",
+        "requestedMinutes": "Begärda minuter",
+        "startTime": "Starttid",
+        "workDate": "Arbetsdatum",
+        "workedMinutes": "Arbetade minuter",
+        "workShift": "Arbetspass",
+        "workShifts": "Arbetspass"
+    }
+}

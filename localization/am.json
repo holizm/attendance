@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "የሥራ መገኘት",
+        "breakMinutes": "ዕረፍት በደቂቃ",
+        "checkInDate": "የመግቢያ ሰዓት",
+        "checkOutDate": "የመውጫ ሰዓት",
+        "endTime": "የማብቂያ ሰዓት",
+        "lateToleranceMinutes": "የመዘግየት ፈቃድ በደቂቃ",
+        "leaveRequests": "የፈቃድ ጥያቄዎች",
+        "leaveType": "የፈቃድ ዓይነት",
+        "records": "የመገኘት መዝገቦች",
+        "requestedMinutes": "የተጠየቁ ደቂቃዎች",
+        "startTime": "የመጀመሪያ ሰዓት",
+        "workDate": "የሥራ ቀን",
+        "workedMinutes": "የተሠሩ ደቂቃዎች",
+        "workShift": "የሥራ ፈረቃ",
+        "workShifts": "የሥራ ፈረቃዎች"
+    }
+}

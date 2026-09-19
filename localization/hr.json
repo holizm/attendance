@@ -1,0 +1,19 @@
+{
+    "common": {
+        "attendance": "Evidencija prisutnosti",
+        "breakMinutes": "Stanka u minutama",
+        "checkInDate": "Vrijeme dolaska",
+        "checkOutDate": "Vrijeme odlaska",
+        "endTime": "Vrijeme završetka",
+        "lateToleranceMinutes": "Tolerancija kašnjenja u minutama",
+        "leaveRequests": "Zahtjevi za dopust",
+        "leaveType": "Vrsta dopusta",
+        "records": "Evidencija prisutnosti",
+        "requestedMinutes": "Zatražene minute",
+        "startTime": "Vrijeme početka",
+        "workDate": "Datum rada",
+        "workedMinutes": "Odrađene minute",
+        "workShift": "Radna smjena",
+        "workShifts": "Radne smjene"
+    }
+}
