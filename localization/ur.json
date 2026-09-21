@@ -4,16 +4,14 @@
         "breakMinutes": "وقفہ منٹوں میں",
         "checkInDate": "آمد کا وقت",
         "checkOutDate": "روانگی کا وقت",
-        "endTime": "اختتامی وقت",
         "lateToleranceMinutes": "تاخیر کی اجازت منٹوں میں",
         "leaveRequests": "چھٹی کی درخواستیں",
         "leaveType": "چھٹی کی قسم",
         "records": "حاضری کے ریکارڈ",
         "requestedMinutes": "درخواست کردہ منٹ",
-        "startTime": "آغاز کا وقت",
         "workDate": "کام کی تاریخ",
-        "workedMinutes": "کام کیے گئے منٹ",
         "workShift": "کام کی شفٹ",
-        "workShifts": "کام کی شفٹیں"
+        "workShifts": "کام کی شفٹیں",
+        "workedMinutes": "کام کیے گئے منٹ"
     }
 }

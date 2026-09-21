@@ -4,16 +4,14 @@
         "breakMinutes": "Pauze in minuten",
         "checkInDate": "Inchecktijd",
         "checkOutDate": "Uitchecktijd",
-        "endTime": "Eindtijd",
         "lateToleranceMinutes": "Tolerantie voor te laat komen in minuten",
         "leaveRequests": "Verlofaanvragen",
         "leaveType": "Verloftype",
         "records": "Aanwezigheidsregistraties",
         "requestedMinutes": "Aangevraagde minuten",
-        "startTime": "Starttijd",
         "workDate": "Werkdatum",
-        "workedMinutes": "Gewerkte minuten",
         "workShift": "Werkdienst",
-        "workShifts": "Werkdiensten"
+        "workShifts": "Werkdiensten",
+        "workedMinutes": "Gewerkte minuten"
     }
 }

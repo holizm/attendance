@@ -4,16 +4,14 @@
         "breakMinutes": "زمان استراحت به دقیقه",
         "checkInDate": "زمان ورود",
         "checkOutDate": "زمان خروج",
-        "endTime": "زمان پایان",
         "lateToleranceMinutes": "مهلت تأخیر به دقیقه",
         "leaveRequests": "درخواست‌های مرخصی",
         "leaveType": "نوع مرخصی",
         "records": "سوابق حضور و غیاب",
         "requestedMinutes": "مدت درخواستی به دقیقه",
-        "startTime": "زمان شروع",
         "workDate": "تاریخ کاری",
-        "workedMinutes": "دقایق کارکرد",
         "workShift": "شیفت کاری",
-        "workShifts": "شیفت‌های کاری"
+        "workShifts": "شیفت‌های کاری",
+        "workedMinutes": "دقایق کارکرد"
     }
 }

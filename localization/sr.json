@@ -4,16 +4,14 @@
         "breakMinutes": "Пауза у минутима",
         "checkInDate": "Време доласка",
         "checkOutDate": "Време одласка",
-        "endTime": "Време завршетка",
         "lateToleranceMinutes": "Толеранција кашњења у минутима",
         "leaveRequests": "Захтеви за одсуство",
         "leaveType": "Врста одсуства",
         "records": "Евиденција присуства",
         "requestedMinutes": "Захтевани минути",
-        "startTime": "Време почетка",
         "workDate": "Датум рада",
-        "workedMinutes": "Одрађени минути",
         "workShift": "Радна смена",
-        "workShifts": "Радне смене"
+        "workShifts": "Радне смене",
+        "workedMinutes": "Одрађени минути"
     }
 }

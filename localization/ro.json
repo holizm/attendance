@@ -4,16 +4,14 @@
         "breakMinutes": "Pauză în minute",
         "checkInDate": "Ora de intrare",
         "checkOutDate": "Ora de ieșire",
-        "endTime": "Ora de încheiere",
         "lateToleranceMinutes": "Toleranță la întârziere în minute",
         "leaveRequests": "Cereri de concediu",
         "leaveType": "Tip de concediu",
         "records": "Înregistrări de prezență",
         "requestedMinutes": "Minute solicitate",
-        "startTime": "Ora de începere",
         "workDate": "Data de lucru",
-        "workedMinutes": "Minute lucrate",
         "workShift": "Tură de lucru",
-        "workShifts": "Ture de lucru"
+        "workShifts": "Ture de lucru",
+        "workedMinutes": "Minute lucrate"
     }
 }

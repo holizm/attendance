@@ -4,16 +4,14 @@
         "breakMinutes": "Rehat dalam minit",
         "checkInDate": "Masa masuk",
         "checkOutDate": "Masa keluar",
-        "endTime": "Masa tamat",
         "lateToleranceMinutes": "Toleransi lewat dalam minit",
         "leaveRequests": "Permohonan cuti",
         "leaveType": "Jenis cuti",
         "records": "Rekod kehadiran",
         "requestedMinutes": "Minit dimohon",
-        "startTime": "Masa mula",
         "workDate": "Tarikh kerja",
-        "workedMinutes": "Minit bekerja",
         "workShift": "Syif kerja",
-        "workShifts": "Syif kerja"
+        "workShifts": "Syif kerja",
+        "workedMinutes": "Minit bekerja"
     }
 }

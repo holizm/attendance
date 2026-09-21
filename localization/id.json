@@ -4,16 +4,14 @@
         "breakMinutes": "Istirahat dalam menit",
         "checkInDate": "Waktu masuk",
         "checkOutDate": "Waktu keluar",
-        "endTime": "Waktu selesai",
         "lateToleranceMinutes": "Toleransi keterlambatan dalam menit",
         "leaveRequests": "Permintaan cuti",
         "leaveType": "Jenis cuti",
         "records": "Catatan kehadiran",
         "requestedMinutes": "Menit yang diminta",
-        "startTime": "Waktu mulai",
         "workDate": "Tanggal kerja",
-        "workedMinutes": "Menit kerja",
         "workShift": "Giliran kerja",
-        "workShifts": "Giliran kerja"
+        "workShifts": "Giliran kerja",
+        "workedMinutes": "Menit kerja"
     }
 }

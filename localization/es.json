@@ -4,16 +4,14 @@
         "breakMinutes": "Descanso en minutos",
         "checkInDate": "Hora de entrada",
         "checkOutDate": "Hora de salida",
-        "endTime": "Hora de finalización",
         "lateToleranceMinutes": "Tolerancia de retraso en minutos",
         "leaveRequests": "Solicitudes de permiso",
         "leaveType": "Tipo de permiso",
         "records": "Registros de asistencia",
         "requestedMinutes": "Minutos solicitados",
-        "startTime": "Hora de inicio",
         "workDate": "Fecha de trabajo",
-        "workedMinutes": "Minutos trabajados",
         "workShift": "Turno de trabajo",
-        "workShifts": "Turnos de trabajo"
+        "workShifts": "Turnos de trabajo",
+        "workedMinutes": "Minutos trabajados"
     }
 }

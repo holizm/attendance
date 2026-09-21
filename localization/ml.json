@@ -4,16 +4,14 @@
         "breakMinutes": "ഇടവേള മിനിറ്റിൽ",
         "checkInDate": "പ്രവേശന സമയം",
         "checkOutDate": "പുറത്തിറങ്ങുന്ന സമയം",
-        "endTime": "അവസാന സമയം",
         "lateToleranceMinutes": "വൈകുന്നതിനുള്ള ഇളവ് മിനിറ്റിൽ",
         "leaveRequests": "അവധി അപേക്ഷകൾ",
         "leaveType": "അവധി തരം",
         "records": "ഹാജർ രേഖകൾ",
         "requestedMinutes": "അപേക്ഷിച്ച മിനിറ്റുകൾ",
-        "startTime": "ആരംഭ സമയം",
         "workDate": "ജോലി തീയതി",
-        "workedMinutes": "ജോലി ചെയ്ത മിനിറ്റുകൾ",
         "workShift": "ജോലി ഷിഫ്റ്റ്",
-        "workShifts": "ജോലി ഷിഫ്റ്റുകൾ"
+        "workShifts": "ജോലി ഷിഫ്റ്റുകൾ",
+        "workedMinutes": "ജോലി ചെയ്ത മിനിറ്റുകൾ"
     }
 }

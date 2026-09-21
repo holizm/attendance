@@ -4,16 +4,14 @@
         "breakMinutes": "الاستراحة بالدقائق",
         "checkInDate": "وقت تسجيل الحضور",
         "checkOutDate": "وقت تسجيل الانصراف",
-        "endTime": "وقت الانتهاء",
         "lateToleranceMinutes": "مهلة التأخير بالدقائق",
         "leaveRequests": "طلبات الإجازة",
         "leaveType": "نوع الإجازة",
         "records": "سجلات الحضور",
         "requestedMinutes": "الدقائق المطلوبة",
-        "startTime": "وقت البدء",
         "workDate": "تاريخ العمل",
-        "workedMinutes": "دقائق العمل",
         "workShift": "وردية العمل",
-        "workShifts": "ورديات العمل"
+        "workShifts": "ورديات العمل",
+        "workedMinutes": "دقائق العمل"
     }
 }

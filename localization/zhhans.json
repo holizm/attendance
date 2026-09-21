@@ -4,16 +4,14 @@
         "breakMinutes": "休息时间（分钟）",
         "checkInDate": "签到时间",
         "checkOutDate": "签退时间",
-        "endTime": "结束时间",
         "lateToleranceMinutes": "迟到宽限时间（分钟）",
         "leaveRequests": "请假申请",
         "leaveType": "请假类型",
         "records": "考勤记录",
         "requestedMinutes": "申请分钟数",
-        "startTime": "开始时间",
         "workDate": "工作日期",
-        "workedMinutes": "工作分钟数",
         "workShift": "工作班次",
-        "workShifts": "工作班次"
+        "workShifts": "工作班次",
+        "workedMinutes": "工作分钟数"
     }
 }

@@ -4,16 +4,14 @@
         "breakMinutes": "বিরতি মিনিটে",
         "checkInDate": "প্রবেশের সময়",
         "checkOutDate": "প্রস্থানের সময়",
-        "endTime": "শেষের সময়",
         "lateToleranceMinutes": "দেরির সহনসীমা মিনিটে",
         "leaveRequests": "ছুটির আবেদন",
         "leaveType": "ছুটির ধরন",
         "records": "উপস্থিতির রেকর্ড",
         "requestedMinutes": "আবেদনকৃত মিনিট",
-        "startTime": "শুরুর সময়",
         "workDate": "কর্মদিবস",
-        "workedMinutes": "কাজের মিনিট",
         "workShift": "কর্ম পালা",
-        "workShifts": "কর্ম পালাসমূহ"
+        "workShifts": "কর্ম পালাসমূহ",
+        "workedMinutes": "কাজের মিনিট"
     }
 }

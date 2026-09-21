@@ -4,16 +4,14 @@
         "breakMinutes": "Přestávka v minutách",
         "checkInDate": "Čas příchodu",
         "checkOutDate": "Čas odchodu",
-        "endTime": "Čas ukončení",
         "lateToleranceMinutes": "Tolerance zpoždění v minutách",
         "leaveRequests": "Žádosti o volno",
         "leaveType": "Typ volna",
         "records": "Záznamy docházky",
         "requestedMinutes": "Požadované minuty",
-        "startTime": "Čas zahájení",
         "workDate": "Pracovní datum",
-        "workedMinutes": "Odpracované minuty",
         "workShift": "Pracovní směna",
-        "workShifts": "Pracovní směny"
+        "workShifts": "Pracovní směny",
+        "workedMinutes": "Odpracované minuty"
     }
 }

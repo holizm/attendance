@@ -4,16 +4,14 @@
         "breakMinutes": "Перерва у хвилинах",
         "checkInDate": "Час приходу",
         "checkOutDate": "Час виходу",
-        "endTime": "Час завершення",
         "lateToleranceMinutes": "Допустиме запізнення у хвилинах",
         "leaveRequests": "Заявки на відпустку",
         "leaveType": "Тип відпустки",
         "records": "Записи відвідуваності",
         "requestedMinutes": "Запитані хвилини",
-        "startTime": "Час початку",
         "workDate": "Робоча дата",
-        "workedMinutes": "Відпрацьовані хвилини",
         "workShift": "Робоча зміна",
-        "workShifts": "Робочі зміни"
+        "workShifts": "Робочі зміни",
+        "workedMinutes": "Відпрацьовані хвилини"
     }
 }

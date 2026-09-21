@@ -4,16 +4,14 @@
         "breakMinutes": "विराम मिनटों में",
         "checkInDate": "आगमन समय",
         "checkOutDate": "प्रस्थान समय",
-        "endTime": "समाप्ति समय",
         "lateToleranceMinutes": "देरी की स्वीकार्य सीमा मिनटों में",
         "leaveRequests": "अवकाश अनुरोध",
         "leaveType": "अवकाश का प्रकार",
         "records": "उपस्थिति रिकॉर्ड",
         "requestedMinutes": "अनुरोधित मिनट",
-        "startTime": "प्रारंभ समय",
         "workDate": "कार्य तिथि",
-        "workedMinutes": "कार्य किए गए मिनट",
         "workShift": "कार्य पाली",
-        "workShifts": "कार्य पालियाँ"
+        "workShifts": "कार्य पालियाँ",
+        "workedMinutes": "कार्य किए गए मिनट"
     }
 }

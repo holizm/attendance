@@ -4,16 +4,14 @@
         "breakMinutes": "Break in minutes",
         "checkInDate": "Check-in time",
         "checkOutDate": "Check-out time",
-        "endTime": "End time",
         "lateToleranceMinutes": "Late tolerance in minutes",
         "leaveRequests": "Leave requests",
         "leaveType": "Leave type",
         "records": "Attendance records",
         "requestedMinutes": "Requested minutes",
-        "startTime": "Start time",
         "workDate": "Work date",
-        "workedMinutes": "Worked minutes",
         "workShift": "Work shift",
-        "workShifts": "Work shifts"
+        "workShifts": "Work shifts",
+        "workedMinutes": "Worked minutes"
     }
 }

@@ -4,16 +4,14 @@
         "breakMinutes": "Hutu a mintuna",
         "checkInDate": "Lokacin shigowa",
         "checkOutDate": "Lokacin fita",
-        "endTime": "Lokacin ƙarewa",
         "lateToleranceMinutes": "Izinin jinkiri a mintuna",
         "leaveRequests": "Buƙatun hutu",
         "leaveType": "Nau’in hutu",
         "records": "Bayanan halartar aiki",
         "requestedMinutes": "Mintunan da aka nema",
-        "startTime": "Lokacin farawa",
         "workDate": "Ranar aiki",
-        "workedMinutes": "Mintunan aiki",
         "workShift": "Juyin aiki",
-        "workShifts": "Juyoyin aiki"
+        "workShifts": "Juyoyin aiki",
+        "workedMinutes": "Mintunan aiki"
     }
 }

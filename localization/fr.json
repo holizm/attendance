@@ -4,16 +4,14 @@
         "breakMinutes": "Pause en minutes",
         "checkInDate": "Heure d’arrivée",
         "checkOutDate": "Heure de départ",
-        "endTime": "Heure de fin",
         "lateToleranceMinutes": "Tolérance de retard en minutes",
         "leaveRequests": "Demandes de congé",
         "leaveType": "Type de congé",
         "records": "Relevés de présence",
         "requestedMinutes": "Minutes demandées",
-        "startTime": "Heure de début",
         "workDate": "Date de travail",
-        "workedMinutes": "Minutes travaillées",
         "workShift": "Quart de travail",
-        "workShifts": "Quarts de travail"
+        "workShifts": "Quarts de travail",
+        "workedMinutes": "Minutes travaillées"
     }
 }

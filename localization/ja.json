@@ -4,16 +4,14 @@
         "breakMinutes": "休憩時間（分）",
         "checkInDate": "出勤時刻",
         "checkOutDate": "退勤時刻",
-        "endTime": "終了時刻",
         "lateToleranceMinutes": "遅刻許容時間（分）",
         "leaveRequests": "休暇申請",
         "leaveType": "休暇種別",
         "records": "勤怠記録",
         "requestedMinutes": "申請時間（分）",
-        "startTime": "開始時刻",
         "workDate": "勤務日",
-        "workedMinutes": "勤務時間（分）",
         "workShift": "勤務シフト",
-        "workShifts": "勤務シフト"
+        "workShifts": "勤務シフト",
+        "workedMinutes": "勤務時間（分）"
     }
 }

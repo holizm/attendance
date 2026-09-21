@@ -4,16 +4,14 @@
         "breakMinutes": "Thời gian nghỉ tính bằng phút",
         "checkInDate": "Giờ vào ca",
         "checkOutDate": "Giờ ra ca",
-        "endTime": "Giờ kết thúc",
         "lateToleranceMinutes": "Thời gian cho phép đi muộn tính bằng phút",
         "leaveRequests": "Yêu cầu nghỉ phép",
         "leaveType": "Loại nghỉ phép",
         "records": "Bản ghi chấm công",
         "requestedMinutes": "Số phút yêu cầu",
-        "startTime": "Giờ bắt đầu",
         "workDate": "Ngày làm việc",
-        "workedMinutes": "Số phút đã làm",
         "workShift": "Ca làm việc",
-        "workShifts": "Các ca làm việc"
+        "workShifts": "Các ca làm việc",
+        "workedMinutes": "Số phút đã làm"
     }
 }

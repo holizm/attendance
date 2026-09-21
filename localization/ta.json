@@ -4,16 +4,14 @@
         "breakMinutes": "இடைவேளை நிமிடங்களில்",
         "checkInDate": "வருகை நேரம்",
         "checkOutDate": "வெளியேறும் நேரம்",
-        "endTime": "முடிவு நேரம்",
         "lateToleranceMinutes": "தாமத அனுமதி நிமிடங்களில்",
         "leaveRequests": "விடுப்பு கோரிக்கைகள்",
         "leaveType": "விடுப்பு வகை",
         "records": "வருகைப்பதிவுகள்",
         "requestedMinutes": "கோரப்பட்ட நிமிடங்கள்",
-        "startTime": "தொடக்க நேரம்",
         "workDate": "வேலைத் தேதி",
-        "workedMinutes": "வேலை செய்த நிமிடங்கள்",
         "workShift": "வேலைப் பணி நேரம்",
-        "workShifts": "வேலைப் பணி நேரங்கள்"
+        "workShifts": "வேலைப் பணி நேரங்கள்",
+        "workedMinutes": "வேலை செய்த நிமிடங்கள்"
     }
 }

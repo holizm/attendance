@@ -4,16 +4,14 @@
         "breakMinutes": "ವಿರಾಮ ನಿಮಿಷಗಳಲ್ಲಿ",
         "checkInDate": "ಒಳಬರುವ ಸಮಯ",
         "checkOutDate": "ಹೊರಹೋಗುವ ಸಮಯ",
-        "endTime": "ಅಂತ್ಯದ ಸಮಯ",
         "lateToleranceMinutes": "ತಡವಾಗುವಿಕೆ ಸಹಿಷ್ಣುತೆ ನಿಮಿಷಗಳಲ್ಲಿ",
         "leaveRequests": "ರಜೆ ವಿನಂತಿಗಳು",
         "leaveType": "ರಜೆ ಪ್ರಕಾರ",
         "records": "ಹಾಜರಾತಿ ದಾಖಲೆಗಳು",
         "requestedMinutes": "ವಿನಂತಿಸಿದ ನಿಮಿಷಗಳು",
-        "startTime": "ಪ್ರಾರಂಭದ ಸಮಯ",
         "workDate": "ಕೆಲಸದ ದಿನಾಂಕ",
-        "workedMinutes": "ಕೆಲಸ ಮಾಡಿದ ನಿಮಿಷಗಳು",
         "workShift": "ಕೆಲಸದ ಪಾಳಿ",
-        "workShifts": "ಕೆಲಸದ ಪಾಳಿಗಳು"
+        "workShifts": "ಕೆಲಸದ ಪಾಳಿಗಳು",
+        "workedMinutes": "ಕೆಲಸ ಮಾಡಿದ ನಿಮಿಷಗಳು"
     }
 }

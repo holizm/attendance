@@ -4,16 +4,14 @@
         "breakMinutes": "Szünet percben",
         "checkInDate": "Érkezési idő",
         "checkOutDate": "Távozási idő",
-        "endTime": "Befejezési idő",
         "lateToleranceMinutes": "Késési türelmi idő percben",
         "leaveRequests": "Szabadságkérelmek",
         "leaveType": "Szabadság típusa",
         "records": "Jelenléti nyilvántartás",
         "requestedMinutes": "Kérelmezett percek",
-        "startTime": "Kezdési idő",
         "workDate": "Munkanap",
-        "workedMinutes": "Ledolgozott percek",
         "workShift": "Műszak",
-        "workShifts": "Műszakok"
+        "workShifts": "Műszakok",
+        "workedMinutes": "Ledolgozott percek"
     }
 }

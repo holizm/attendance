@@ -4,16 +4,14 @@
         "breakMinutes": "Mapumziko kwa dakika",
         "checkInDate": "Muda wa kuingia",
         "checkOutDate": "Muda wa kutoka",
-        "endTime": "Muda wa kumaliza",
         "lateToleranceMinutes": "Ruhusa ya kuchelewa kwa dakika",
         "leaveRequests": "Maombi ya likizo",
         "leaveType": "Aina ya likizo",
         "records": "Rekodi za mahudhurio",
         "requestedMinutes": "Dakika zilizoombwa",
-        "startTime": "Muda wa kuanza",
         "workDate": "Tarehe ya kazi",
-        "workedMinutes": "Dakika zilizofanya kazi",
         "workShift": "Zamu ya kazi",
-        "workShifts": "Zamu za kazi"
+        "workShifts": "Zamu za kazi",
+        "workedMinutes": "Dakika zilizofanya kazi"
     }
 }

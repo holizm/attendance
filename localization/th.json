@@ -4,16 +4,14 @@
         "breakMinutes": "เวลาพักเป็นนาที",
         "checkInDate": "เวลาเข้างาน",
         "checkOutDate": "เวลาออกงาน",
-        "endTime": "เวลาสิ้นสุด",
         "lateToleranceMinutes": "เวลาผ่อนผันการมาสายเป็นนาที",
         "leaveRequests": "คำขอลา",
         "leaveType": "ประเภทการลา",
         "records": "บันทึกการเข้างาน",
         "requestedMinutes": "จำนวนนาทีที่ขอ",
-        "startTime": "เวลาเริ่มต้น",
         "workDate": "วันที่ทำงาน",
-        "workedMinutes": "นาทีที่ทำงาน",
         "workShift": "กะการทำงาน",
-        "workShifts": "กะการทำงาน"
+        "workShifts": "กะการทำงาน",
+        "workedMinutes": "นาทีที่ทำงาน"
     }
 }

@@ -7,8 +7,8 @@ import Form from './form'
 const headers = <>
     <th start>attendanceWorkShift</th>
     <th>attendanceCode</th>
-    <th>attendanceStartTime</th>
-    <th>attendanceEndTime</th>
+    <th>coreStartTime</th>
+    <th>coreEndTime</th>
 </>
 
 const row = item => <>

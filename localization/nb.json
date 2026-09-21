@@ -4,16 +4,14 @@
         "breakMinutes": "Pause i minutter",
         "checkInDate": "Innsjekkingstid",
         "checkOutDate": "Utsjekkingstid",
-        "endTime": "Sluttid",
         "lateToleranceMinutes": "Toleranse for forsinkelse i minutter",
         "leaveRequests": "Fraværsforespørsler",
         "leaveType": "Fraværstype",
         "records": "Oppmøteregistreringer",
         "requestedMinutes": "Forespurte minutter",
-        "startTime": "Starttid",
         "workDate": "Arbeidsdato",
-        "workedMinutes": "Arbeidede minutter",
         "workShift": "Arbeidsskift",
-        "workShifts": "Arbeidsskift"
+        "workShifts": "Arbeidsskift",
+        "workedMinutes": "Arbeidede minutter"
     }
 }

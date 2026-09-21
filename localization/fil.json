@@ -4,16 +4,14 @@
         "breakMinutes": "Pahinga sa minuto",
         "checkInDate": "Oras ng pagpasok",
         "checkOutDate": "Oras ng paglabas",
-        "endTime": "Oras ng pagtatapos",
         "lateToleranceMinutes": "Palugit sa pagka-late sa minuto",
         "leaveRequests": "Mga kahilingan sa leave",
         "leaveType": "Uri ng leave",
         "records": "Mga tala ng attendance",
         "requestedMinutes": "Hinihinging minuto",
-        "startTime": "Oras ng simula",
         "workDate": "Petsa ng trabaho",
-        "workedMinutes": "Minutong nagtrabaho",
         "workShift": "Shift sa trabaho",
-        "workShifts": "Mga shift sa trabaho"
+        "workShifts": "Mga shift sa trabaho",
+        "workedMinutes": "Minutong nagtrabaho"
     }
 }

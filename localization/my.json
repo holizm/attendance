@@ -4,16 +4,14 @@
         "breakMinutes": "နားချိန် မိနစ်ဖြင့်",
         "checkInDate": "အလုပ်ဝင်ချိန်",
         "checkOutDate": "အလုပ်ဆင်းချိန်",
-        "endTime": "ပြီးဆုံးချိန်",
         "lateToleranceMinutes": "နောက်ကျခွင့် မိနစ်ဖြင့်",
         "leaveRequests": "ခွင့်တောင်းဆိုမှုများ",
         "leaveType": "ခွင့်အမျိုးအစား",
         "records": "တက်ရောက်မှု မှတ်တမ်းများ",
         "requestedMinutes": "တောင်းဆိုသည့် မိနစ်များ",
-        "startTime": "စတင်ချိန်",
         "workDate": "အလုပ်ရက်",
-        "workedMinutes": "အလုပ်လုပ်သည့် မိနစ်များ",
         "workShift": "အလုပ်ဆိုင်း",
-        "workShifts": "အလုပ်ဆိုင်းများ"
+        "workShifts": "အလုပ်ဆိုင်းများ",
+        "workedMinutes": "အလုပ်လုပ်သည့် မိနစ်များ"
     }
 }

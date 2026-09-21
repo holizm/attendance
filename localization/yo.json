@@ -4,16 +4,14 @@
         "breakMinutes": "Ìsinmi ní ìṣẹ́jú",
         "checkInDate": "Àkókò wíwọlé",
         "checkOutDate": "Àkókò jíjáde",
-        "endTime": "Àkókò ìparí",
         "lateToleranceMinutes": "Ààyè ìpẹ́ ní ìṣẹ́jú",
         "leaveRequests": "Àwọn ìbéèrè ìsinmi",
         "leaveType": "Irú ìsinmi",
         "records": "Àwọn àkọsílẹ̀ wíwà",
         "requestedMinutes": "Ìṣẹ́jú tí a béèrè",
-        "startTime": "Àkókò ìbẹ̀rẹ̀",
         "workDate": "Ọjọ́ iṣẹ́",
-        "workedMinutes": "Ìṣẹ́jú iṣẹ́",
         "workShift": "Ìpele iṣẹ́",
-        "workShifts": "Àwọn ìpele iṣẹ́"
+        "workShifts": "Àwọn ìpele iṣẹ́",
+        "workedMinutes": "Ìṣẹ́jú iṣẹ́"
     }
 }

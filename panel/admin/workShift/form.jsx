@@ -13,12 +13,12 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='attendanceStartTime'
+        placeholder='coreStartTime'
         property='startTime'
         required
     />
     <Text
-        placeholder='attendanceEndTime'
+        placeholder='coreEndTime'
         property='endTime'
         required
     />

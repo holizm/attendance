@@ -4,16 +4,14 @@
         "breakMinutes": "Intervalo em minutos",
         "checkInDate": "Hora de entrada",
         "checkOutDate": "Hora de saída",
-        "endTime": "Hora de término",
         "lateToleranceMinutes": "Tolerância de atraso em minutos",
         "leaveRequests": "Pedidos de licença",
         "leaveType": "Tipo de licença",
         "records": "Registos de assiduidade",
         "requestedMinutes": "Minutos solicitados",
-        "startTime": "Hora de início",
         "workDate": "Data de trabalho",
-        "workedMinutes": "Minutos trabalhados",
         "workShift": "Turno de trabalho",
-        "workShifts": "Turnos de trabalho"
+        "workShifts": "Turnos de trabalho",
+        "workedMinutes": "Minutos trabalhados"
     }
 }
