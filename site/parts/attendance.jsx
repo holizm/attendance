@@ -1,4 +1,7 @@
-import { List } from 'core'
+import {
+    Item,
+    List,
+} from 'core'
 import { AttendanceStatus } from 'attendance'
 
 export default ({
@@ -10,10 +13,15 @@ export default ({
     </h1>
     <List class='items'>
         {
-            attendanceRecords?.data?.map(attendanceRecord => <AttendanceStatus
-                attendanceRecord={attendanceRecord}
+            attendanceRecords?.data?.map(attendanceRecord => <Item
+                inList
                 key={attendanceRecord.id}
-            />)
+            >
+                <AttendanceStatus
+                    attendanceRecord={attendanceRecord}
+                    key={attendanceRecord.id}
+                />
+            </Item>)
         }
     </List>
 </main>
