@@ -7,25 +7,25 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='attendanceEmployee'
+        placeholder='employee'
         property='employee'
         required
     />
     <DateTime
-        placeholder='attendanceWorkDate'
+        placeholder='workDate'
         property='workDate'
         required
     />
     <DateTime
-        placeholder='attendanceCheckInDate'
+        placeholder='checkInDate'
         property='checkInDate'
     />
     <DateTime
-        placeholder='attendanceCheckOutDate'
+        placeholder='checkOutDate'
         property='checkOutDate'
     />
     <LongText
-        placeholder='attendanceDescription'
+        placeholder='description'
         property='description'
     />
 </>

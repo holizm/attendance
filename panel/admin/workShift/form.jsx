@@ -8,26 +8,26 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='attendanceCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='coreStartTime'
+        placeholder='startTime'
         property='startTime'
         required
     />
     <Text
-        placeholder='coreEndTime'
+        placeholder='endTime'
         property='endTime'
         required
     />
     <Numeric
-        placeholder='attendanceBreakMinutes'
+        placeholder='breakMinutes'
         property='breakMinutes'
     />
     <Numeric
-        placeholder='attendanceLateToleranceMinutes'
+        placeholder='lateToleranceMinutes'
         property='lateToleranceMinutes'
     />
 </>

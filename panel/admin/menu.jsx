@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/attendance/attendanceRecord/list',
-                title: 'attendanceRecords',
+                title: 'records',
             },
             {
                 path: '/attendance/leaveRequest/list',
-                title: 'attendanceLeaveRequests',
+                title: 'leaveRequests',
             },
             {
                 path: '/attendance/workShift/list',
-                title: 'attendanceWorkShifts',
+                title: 'workShifts',
             },
         ],
         icon: 'schedule',
         path: '/attendance',
-        title: 'attendanceAttendance',
+        title: 'attendance',
     },
 ]

@@ -8,32 +8,32 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='attendanceEmployee'
+        placeholder='employee'
         property='employee'
         required
     />
     <Text
-        placeholder='attendanceLeaveType'
+        placeholder='leaveType'
         property='leaveType'
         required
     />
     <DateTime
-        placeholder='attendanceStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='attendanceEndDate'
+        placeholder='endDate'
         property='endDate'
         required
     />
     <Numeric
-        placeholder='attendanceRequestedMinutes'
+        placeholder='requestedMinutes'
         property='requestedMinutes'
         required
     />
     <LongText
-        placeholder='attendanceReason'
+        placeholder='reason'
         property='reason'
     />
 </>

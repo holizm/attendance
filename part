@@ -41,6 +41,8 @@ leaveRequest
     requestedMinutes integer
     state
     reason optional
+    uses
+        stateMachines
 overtime
     attendanceRecord
     requestedMinutes integer

@@ -1,7 +1,7 @@
 export default <>
-    <th start>attendanceEmployee</th>
-    <th>attendanceLeaveType</th>
-    <th>attendanceStartDate</th>
-    <th>attendanceEndDate</th>
-    <th>stateMachinesState</th>
+    <th start>employee</th>
+    <th>leaveType</th>
+    <th>startDate</th>
+    <th>endDate</th>
+    <th>state</th>
 </>

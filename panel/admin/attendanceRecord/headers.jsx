@@ -1,7 +1,7 @@
 export default <>
-    <th start>attendanceEmployee</th>
-    <th>attendanceWorkDate</th>
-    <th>attendanceCheckInDate</th>
-    <th>attendanceCheckOutDate</th>
-    <th>attendanceWorkedMinutes</th>
+    <th start>employee</th>
+    <th>workDate</th>
+    <th>checkInDate</th>
+    <th>checkOutDate</th>
+    <th>workedMinutes</th>
 </>
