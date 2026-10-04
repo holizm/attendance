@@ -8,28 +8,19 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Text
-        placeholder='startTime'
-        property='startTime'
         required
+        startTime
     />
     <Text
-        placeholder='endTime'
-        property='endTime'
+        endTime
         required
     />
-    <Numeric
-        placeholder='breakMinutes'
-        property='breakMinutes'
-    />
-    <Numeric
-        placeholder='lateToleranceMinutes'
-        property='lateToleranceMinutes'
-    />
+    <Numeric breakMinutes />
+    <Numeric lateToleranceMinutes />
 </>
 
 export default <DialogForm inputs={inputs} />

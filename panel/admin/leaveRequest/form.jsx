@@ -8,34 +8,26 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='employee'
-        property='employee'
+        employee
         required
     />
     <Text
-        placeholder='leaveType'
-        property='leaveType'
+        leaveType
         required
     />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
     <DateTime
-        placeholder='endDate'
-        property='endDate'
+        endDate
         required
     />
     <Numeric
-        placeholder='requestedMinutes'
-        property='requestedMinutes'
+        requestedMinutes
         required
     />
-    <LongText
-        placeholder='reason'
-        property='reason'
-    />
+    <LongText reason />
 </>
 
 export default <DialogForm inputs={inputs} />
