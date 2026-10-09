@@ -1,7 +1,5 @@
-import {
-    Item,
-    List,
-} from 'core'
+import Item from 'item'
+import List from 'list'
 import { AttendanceStatus } from 'attendance'
 
 export default ({
