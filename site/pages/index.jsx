@@ -1,13 +1,11 @@
 import { component$ } from '@builder.io/qwik'
-import {
-    Attendance,
-    loadAttendance,
-} from 'attendance'
+import AttendanceAttendance from 'attendanceAttendance'
+import attendanceLoadAttendance from 'attendanceLoadAttendance'
 
 export default component$(() => {
-    const data = loadAttendance().value
+    const data = attendanceLoadAttendance().value
 
-    return <Attendance {...data} />
+    return <AttendanceAttendance {...data} />
 })
 
-export { loadAttendance }
+export { attendanceLoadAttendance as loadAttendance }

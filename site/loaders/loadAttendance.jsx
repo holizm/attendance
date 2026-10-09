@@ -1,15 +1,15 @@
 import { routeLoader$ } from '@builder.io/qwik-city'
 import useAsync from 'useAsync'
-import { getGlobalization } from 'globalization'
-import { getAttendanceRecords } from 'attendance'
+import globalizationGetGlobalization from 'globalizationGetGlobalization'
+import attendanceGetAttendanceRecords from 'attendanceGetAttendanceRecords'
 
 export default routeLoader$(async props => {
     const [
         attendanceRecords,
         globalization,
     ] = await useAsync([
-        getAttendanceRecords(props),
-        getGlobalization(props),
+        attendanceGetAttendanceRecords(props),
+        globalizationGetGlobalization(props),
     ])
 
     const result = {

@@ -1,6 +1,6 @@
 import Item from 'item'
 import List from 'list'
-import { AttendanceStatus } from 'attendance'
+import AttendanceAttendanceStatus from 'attendanceAttendanceStatus'
 
 export default ({
     attendanceRecords,
@@ -15,7 +15,7 @@ export default ({
                 inList
                 key={attendanceRecord.id}
             >
-                <AttendanceStatus
+                <AttendanceAttendanceStatus
                     attendanceRecord={attendanceRecord}
                     key={attendanceRecord.id}
                 />
